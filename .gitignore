@@ -1,0 +1,11 @@
+# editor configs
+.idea
+.vscode
+.vs
+
+# compilations files
+[Oo]bj
+[Bb]in
+
+# macOS files
+.DS_Store

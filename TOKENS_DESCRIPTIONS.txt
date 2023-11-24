@@ -1,0 +1,19 @@
+IDENTIFIERS
+  [a..z]+[A-Z]|[a-z]|[0..9]*
+
+NUMBERS
+  [0..9]
+
+PUNCTUATIONS
+  ;
+
+RELATIONAL_OPERATORS
+  < | >= | > | <= | == | !=
+
+ATTRIBUTION_OPERATOR
+  =
+
+OBSERVATIONS
+  a..z ->
+  *    ->
+  +    ->

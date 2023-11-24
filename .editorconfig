@@ -1,0 +1,19 @@
+root = true
+
+# All files
+[*]
+charset = utf-8
+end_of_line = lf
+indent_size = 2
+indent_style = space
+
+# XML project files
+# JSON config files
+[*.{sln,csproj,json}]
+indent_size = 4
+
+# Code files
+[*.cs]
+insert_final_newline = true
+max_line_length = 120
+
